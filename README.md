@@ -1,1 +1,1 @@
-# engsci773-lab2
+# ENGSCI 773 Lab 2
